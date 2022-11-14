@@ -9,7 +9,7 @@ import org.junit.runner.RunWith;
         features = ".//Features/", //".//Features/"
         glue="StepDefinitions",
         dryRun = false,
-        plugin = {"pretty","html:Target/cucumber.html"}, //for Report generation of reports "
+        plugin = {"pretty","html:Target/cucumber.html"}, //for Report generation  "
         monochrome = true,
         tags= "@regression"
 )
