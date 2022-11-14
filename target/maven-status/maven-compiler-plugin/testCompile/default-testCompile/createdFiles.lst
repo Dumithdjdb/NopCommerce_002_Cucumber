@@ -1,0 +1,7 @@
+TestRunner\testRunnerTest.class
+Utilities\WaitHelper.class
+StepDefinitions\Steps.class
+POM\AddCustomerPage.class
+POM\loginPage.class
+StepDefinitions\CommonSteps.class
+POM\SearchCustomerPage.class
