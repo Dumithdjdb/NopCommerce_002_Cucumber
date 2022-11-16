@@ -11,7 +11,7 @@ import org.junit.runner.RunWith;
         dryRun = false,
         plugin = {"pretty","html:Target/cucumber.html"}, //for Report generation  "
         monochrome = true,
-        tags= "@regression"
+        tags= "@regression, @sanity"
 )
 
 public class testRunnerTest {
